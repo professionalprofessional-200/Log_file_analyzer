@@ -1,1 +1,2 @@
 # Log_file_analyzer
+My project is a Python-based Log File Analyzer. It reads log data from a text file and processes each line. It counts INFO, WARNING, and ERROR logs, stores and displays all ERROR logs separately, and finds the most frequent log type. Finally, it generates a summary report containing the total logs and individual log counts. I also added validation to ignore empty lines and invalid log formats, and exception handling for missing files, permission errors, and unexpected errors.
